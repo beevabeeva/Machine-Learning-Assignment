@@ -1,0 +1,8 @@
+e,a,n,y
+p,c,y,n
+e,c,n,y
+e,b,y,y
+p,b,n,n
+e,c,y,n
+p,a,n,n
+e,b,y,n
