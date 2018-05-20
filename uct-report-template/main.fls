@@ -1,13 +1,13 @@
-PWD /home/avi/Documents/LaTeX templates/uct-report-template
+PWD /home/avi/Documents/Wits/3/Machine Learning/Assignment/Machine-Learning-Assignment/uct-report-template
 INPUT /usr/local/texlive/2018/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT main.tex
 OUTPUT main.log
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
-INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/bk12.clo
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/bk12.clo
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
@@ -112,12 +112,13 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsl12.tfm
 INPUT main.toc
 INPUT main.toc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT main.toc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
 INPUT main.bbl
 INPUT main.bbl
@@ -125,6 +126,7 @@ INPUT main.aux
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb

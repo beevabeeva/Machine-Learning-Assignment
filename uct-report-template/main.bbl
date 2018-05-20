@@ -5,4 +5,12 @@ Help on {BibTeX} entry types.
 \newblock \url{http://nwalsh.com/tex/texhelp/bibtx-7.html}.
 \newblock Accessed: 2015-03-12.
 
+\bibitem{dataset}
+The Audubon Society Field~Guide to~North American Mushrooms \\ Jeff
+  Schlimmer.~\\.
+\newblock Mushroom data set\\, the audubon society field guide to north
+  american mushrooms (1981). g. h. lincoff (pres.), new york: Alfred a. knopf.
+\newblock \url{https://archive.ics.uci.edu/ml/datasets/mushroom}.
+\newblock Accessed: 2018-04-11.
+
 \end{thebibliography}
