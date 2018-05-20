@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.12)  20 MAY 2018 17:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.12)  20 MAY 2018 21:14
 entering extended mode
 **./main.tex
 (main.tex
@@ -316,10 +316,6 @@ Chapter 1.
 ]
 Chapter 2.
 
-Package natbib Warning: Citation `dataset' on page 7 undefined on input line 77
-.
-
-
 Underfull \hbox (badness 4001) in paragraph at lines 113--113
 \OT1/cmr/m/n/12 green=r,orange=o, pink=p, pur-ple=u, red=e,
  []
@@ -367,23 +363,19 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 
 [9] (main.bbl [10
 
-])
-
-Package natbib Warning: There were undefined citations.
-
-[11] (main.aux)
+]) [11] (main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3574 strings out of 493305
- 48655 string characters out of 3138871
- 138564 words of memory out of 3000000
- 7044 multiletter control sequences out of 15000+200000
+ 3576 strings out of 493305
+ 48691 string characters out of 3138871
+ 138579 words of memory out of 3000000
+ 7046 multiletter control sequences out of 15000+200000
  10939 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,43p,382b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,8n,43p,382b,261s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
@@ -391,7 +383,7 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (11 pages, 149521 bytes).
+Output written on main.pdf (11 pages, 150029 bytes).
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
