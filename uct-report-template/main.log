@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.11)  20 MAY 2018 16:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.11)  20 MAY 2018 18:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -154,36 +154,79 @@ Package: vmargin 2004/07/15 V2.5 set document margins (VK)
 Package: vmargin 2004/07/15 V2.5 set document margins (VK)
 \PaperWidth=\dimen115
 \PaperHeight=\dimen116
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen117
+\ar@mcellbox=\box28
+\extrarowheight=\dimen118
+\NC@list=\toks25
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box29
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+\TX@col@width=\dimen119
+\TX@old@table=\dimen120
+\TX@old@col=\dimen121
+\TX@target=\dimen122
+\TX@delta=\dimen123
+\TX@cols=\count105
+\TX@ftn=\toks26
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2017/03/19 v3.3-145 Customizing captions (AR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/04/15 v1.7-167 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen124
+\captionmargin@=\dimen125
+\captionwidth=\dimen126
+\caption@tempdima=\dimen127
+\caption@indent=\dimen128
+\caption@parindent=\dimen129
+\caption@hangindent=\dimen130
+)
+\c@ContinuedFloat=\count106
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box30
+\beforetitleunit=\skip59
+\aftertitleunit=\skip60
+\ttl@plus=\dimen131
+\ttl@minus=\dimen132
+\ttl@toksa=\toks27
+\titlewidth=\dimen133
+\titlewidthlast=\dimen134
+\titlewidthfirst=\dimen135
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 ) (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
-\scratchdimen=\dimen117
-\scratchbox=\box28
-\nofMPsegments=\count106
-\nofMParguments=\count107
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count108
-\MPscratchDim=\dimen118
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count107
+\scratchdimen=\dimen136
+\scratchbox=\box31
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen137
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks29
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
@@ -225,10 +268,12 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 <images/wits-logo.jpg, id=1, 196.0926pt x 192.72pt>
 File: images/wits-logo.jpg Graphic file (type jpg)
 <use images/wits-logo.jpg>
-Package pdftex.def Info: images/wits-logo.jpg  used on input line 35.
+Package pdftex.def Info: images/wits-logo.jpg  used on input line 40.
 (pdftex.def)             Requested size: 147.06908pt x 144.53963pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -254,18 +299,51 @@ Chapter 1.
 ]
 Chapter 2.
 
+Underfull \hbox (badness 4001) in paragraph at lines 116--116
+\OT1/cmr/m/n/12 green=r,orange=o, pink=p, pur-ple=u, red=e,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\OT1/cmr/m/n/12 bulbous=b, club=c, cup=u, equal=e, rhi-
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 116--116
+[]|\OT1/cmr/m/n/12 brown=n, buff=b, cin-na-mon=c, gray=g, or-
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 116--116
+[]|\OT1/cmr/m/n/12 brown=n, buff=b, cin-na-mon=c, gray=g, or-
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 116--116
+[]|\OT1/cmr/m/n/12 cobwebby=c, evanes-cent=e, flar-ing=f, large=l,
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 116--116
+[]|\OT1/cmr/m/n/12 abundant=a, clus-tered=c, nu-mer-ous=n, scat-
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 96.
-LaTeX Font Info:    No file OMScmtt.fd. on input line 96.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 128.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 128.
 
 
 LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 96.
+(Font)              for symbol `textbackslash' on input line 128.
 
-[8] [9] (./main.bbl [10
+[9] (./main.bbl [10
 
 ]) [11] (./main.aux)
 
@@ -273,15 +351,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3483 strings out of 492649
- 47839 string characters out of 6129607
- 134610 words of memory out of 5000000
- 7291 multiletter control sequences out of 15000+600000
+ 4900 strings out of 492649
+ 71676 string characters out of 6129607
+ 169754 words of memory out of 5000000
+ 8692 multiletter control sequences out of 15000+600000
  10939 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,43p,387b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,8n,43p,380b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (11 pages, 141350 bytes).
+Output written on main.pdf (11 pages, 142868 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream

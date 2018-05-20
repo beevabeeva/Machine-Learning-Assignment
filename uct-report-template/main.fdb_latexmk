@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1526827850 "main.aux" "main.bbl" "main" 1526827992
+["bibtex main"] 1526832608 "main.aux" "main.bbl" "main" 1526833110
   "/usr/local/texlive/2018/texmf-dist/bibtex/bst/base/plain.bst" 1480098433 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "biblist.bib" 1526826818 552 7c58d94ccd777d7579e7f5993180f461 ""
-  "main.aux" 1526827991 672 89263a273c40aa066cfda9406d765010 ""
+  "main.aux" 1526833109 789 62003aef540e5145cd13fe04d96982bf ""
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1526827991 "main.tex" "main.pdf" "main" 1526827992
+  "main.bbl"
+["pdflatex"] 1526833108 "main.tex" "main.pdf" "main" 1526833110
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1480098698 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -55,6 +55,8 @@
   "/usr/local/texlive/2018/texmf-dist/tex/latex/base/bk12.clo" 1523050425 8141 bc79961701240ac49c4976edd2db1b7c ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/base/book.cls" 1523050425 22947 d68aea619e8266075ec20ac04d0b9880 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty" 1523050425 5052 f2525dfd6e503dc383e90b568c6c9f02 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty" 1525197783 66181 8da5b5cce8b5d58ba1a4b058c346b169 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty" 1525197783 64731 6c0759f263e4e256b1453d877554c2df ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1498861448 10663 d7fcc0dc4f35e8998b8cfeef8407d37d ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1480098830 1224 978390e9c2234eab29404bc21b268d1e ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def" 1515537368 17334 520b9b85ad8a2a48eda3f643e27a5179 ""
@@ -68,6 +70,9 @@
   "/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty" 1480098836 7075 2fe3d848bba95f139de11ded085e74aa ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty" 1480098836 22417 1d9df1eb66848aa31b18a593099cf45c ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/parskip/parskip.sty" 1480098836 2763 02a40cc5a32805c41d919cfbdba7e99a ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty" 1480098841 37387 afa86533e532701faf233f3f592c61e0 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty" 1525471425 13555 1c149904152e53130811b31763000c97 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/tools/tabularx.sty" 1523050425 7145 01b7b53bf69f5c0f63803657eb51217f ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-global.def" 1480098842 1375 8a855db83af5d6753ccbbd32e6a8a901 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/ucs/ucs.sty" 1480098842 27982 5723d81d568db410592a59b85fb3eaae ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/ucs/ucsencs.def" 1480098842 22368 c53c9d0d16c65bef2b157515c9d9f658 ""
@@ -79,12 +84,12 @@
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1526030286 4219895 56beaf743891997fc3b3f982187a42d3 ""
   "/usr/local/texlive/2018/texmf.cnf" 1526030229 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "images/wits-logo.jpg" 1526811963 54635 e94fa414c4b3a92f80ec0a6f8d1b44c7 ""
-  "main.aux" 1526827991 672 89263a273c40aa066cfda9406d765010 ""
-  "main.bbl" 1526827850 543 633d9cecf7ccad1ae2188e4466a6113c "bibtex main"
-  "main.tex" 1526827989 3735 3c1c2edb6c52eb21e0c81b533d9a3f76 ""
-  "main.toc" 1526827991 250 e7bc5b6943e25a663e54632c690f5352 ""
+  "main.aux" 1526833109 789 62003aef540e5145cd13fe04d96982bf ""
+  "main.bbl" 1526832609 543 633d9cecf7ccad1ae2188e4466a6113c "bibtex main"
+  "main.tex" 1526833108 5410 a2f0e8ebf62d97ba28a96721e9a5cc55 ""
+  "main.toc" 1526833109 250 ad4c1289856884257434556dc7490a62 ""
   (generated)
-  "main.log"
   "main.toc"
-  "main.pdf"
   "main.aux"
+  "main.log"
+  "main.pdf"
