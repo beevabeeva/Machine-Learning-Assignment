@@ -1,5 +1,0 @@
-\babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}Introduction}{5}
-\contentsline {chapter}{\numberline {2}Background}{7}
-\contentsline {section}{\numberline {2.1}Data Set}{7}
-\contentsline {section}{\numberline {2.2}About this design}{9}
